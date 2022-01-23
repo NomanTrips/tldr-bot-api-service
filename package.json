@@ -1,0 +1,16 @@
+{
+  "name": "tldr-bot-server",
+  "version": "1.0.0",
+  "description": "server to route tldr bot requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0"
+  }
+}
